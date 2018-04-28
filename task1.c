@@ -4,7 +4,7 @@
   int tr(char bin[]);
 
 int main(void) {
-  printf("%i\n", tr("11001111"));
+  printf("%i\n", tr("01001011"));
   return 0;
 }
 
